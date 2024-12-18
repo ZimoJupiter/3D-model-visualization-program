@@ -30,9 +30,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(196/255,202/255,212/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -46,9 +46,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(0/255,0/255,0/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -62,9 +62,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(0/255,0/255,0/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -78,9 +78,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(0/255,0/255,0/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -94,9 +94,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(10/255,10/255,10/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -110,9 +110,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(10/255,10/255,10/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -126,9 +126,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(10/255,10/255,10/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 stlReader1 = vtk. vtkSTLReader()
@@ -142,9 +142,9 @@ stlMapper1.SetInputConnection( stlReader1.GetOutputPort())
 stlActor1 = vtk. vtkActor( )
 stlActor1. SetMapper (stlMapper1)
 stlActor1.GetProperty().SetColor(10/255,10/255,10/255)  # Set color to gray
-stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 90%
-stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 80%
-stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 40
+stlActor1.GetProperty().SetDiffuse(0.7)  # Set diffuse reflection to 70%
+stlActor1.GetProperty().SetSpecular(0.6)  # Set specular reflection to 60%
+stlActor1.GetProperty().SetSpecularPower(5)  # Set shininess to 50
 renderer. AddActor (stlActor1)
 
 light1 = vtk.vtkLight()
@@ -161,9 +161,9 @@ light3.SetPosition(1, 1, 0.2)  # Set light position to the upper-left corner
 renderer.AddLight(light3)
 
 camera = renderer.GetActiveCamera()
-camera.SetPosition(0, -0.65, 0.4)  # Set camera position to (0, 1, 0)
-camera.SetFocalPoint(0, 0, 0.1)  # Set camera focal point to (0, 0, 0)
-camera.SetViewUp(0, 0, 1)  # Set camera view up vector to (0, 0, -1)
+camera.SetPosition(0, -0.65, 0.4)  # Set camera position
+camera.SetFocalPoint(0, 0, 0.1)  # Set camera focal point
+camera.SetViewUp(0, 0, 1)  # Set camera view up vector
 interactor.Initialize()
 
 window_to_image_filter = vtk.vtkWindowToImageFilter()
