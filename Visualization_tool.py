@@ -1,5 +1,5 @@
 """
-@ A small tool for 3D visualization with an simple eVTOL model
+@ A small tool for 3D visualization with a simple eVTOL model
 @ author ZimoJupiter
 @ w.zimo@outlook.com
 @ date 18 Dec 2024
